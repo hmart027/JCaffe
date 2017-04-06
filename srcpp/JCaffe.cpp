@@ -5,14 +5,14 @@
  *      Author: harold
  */
 
-#include "Caffe.h"
+#include "JCaffe.h"
 
-Caffe::Caffe() {
-	// TODO Auto-generated constructor stub
+JCaffe::JCaffe() {
+	num_channels_=0;
 
 }
 
-Caffe::~Caffe() {
+JCaffe::~JCaffe() {
 	// TODO Auto-generated destructor stub
 }
 
